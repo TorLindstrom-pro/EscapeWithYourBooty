@@ -68,7 +68,7 @@ CourseChecker:
        [0, N, 0, 0]] -> false
       * ℹ️ creates logic to check if caught 
       * (can maybe be a theory)
-   5. [[X, 0, 0, 0], 
-       [0, 0, 0, 0],
-       [0, 0, 0, N]] -> false
-      * ℹ️ pirates are caught after a few rounds, solution is finished
+   5. [[X, 0, 0, 0, N], 
+       [0, 0, 0, 0, 0],
+       [0, 0, 0, 0, 0]] -> false
+      * ℹ️ navy ship catches pirate ship efter switching direction, solution is finished
