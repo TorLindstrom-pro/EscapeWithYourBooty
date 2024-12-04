@@ -18,7 +18,7 @@
   * Check if caught -> return false
 * Safe -> Return true
 
-#### Domain Objects
+#### Domain Objects/ UATs
 
 Pirate ship:
 * has a given row
