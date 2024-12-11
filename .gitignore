@@ -3,3 +3,8 @@
 **/.vs/** 
 **/.idea/** 
 *DotSettings.user 
+**/obj/**
+**/bin/**
+**/.vs/**
+**/.idea/**
+*DotSettings.user
